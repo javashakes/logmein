@@ -1,2 +1,1 @@
-# logmein
-ExpressionEngine Plugin
+logmein/README.md

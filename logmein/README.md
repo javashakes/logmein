@@ -17,10 +17,10 @@ ExpressionEngine v2+
 
 ## Installation
 
-- **EE v2:** Copy `format_this` directory into `/system/expressionengine/third_party/`
-- **EE v3:** Copy `format_this` directory into `/system/user/addons/`
-- **EE v4:** Copy `format_this` directory into `/system/user/addons/`
-- **EE v5:** Copy `format_this` directory into `/system/user/addons/`
+- **EE v2:** Copy `logmein` directory into `/system/expressionengine/third_party/`
+- **EE v3:** Copy `logmein` directory into `/system/user/addons/`
+- **EE v4:** Copy `logmein` directory into `/system/user/addons/`
+- **EE v5:** Copy `logmein` directory into `/system/user/addons/`
 
 ## Usage
 

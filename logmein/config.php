@@ -19,7 +19,7 @@ if ( ! defined('LOGMEIN_NAME'))
     define('LOGMEIN_DOCS',              'https://github.com/javashakes/logmein');
     define('LOGMEIN_DESC',              '<p><strong>An ExpressionEngine Plugin that Logs a specified user in.</strong></p>Documentation and Usage: <a href="' . LOGMEIN_DOCS . '" target="_blank">' . LOGMEIN_DOCS . '</a>');
     define('LOGMEIN_PACKAGE',           'logmein');
-    define('LOGMEIN_NAMESPACE',         'LogMeIn');
+    define('LOGMEIN_NAMESPACE',         'javashakes\LogMeIn');
     define('LOGMEIN_CLASS_NAME',        'Logmein');
 }
 
